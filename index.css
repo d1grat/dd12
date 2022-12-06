@@ -1,3 +1,9 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .div-1 {
     position: relative;
     width: 50px;
